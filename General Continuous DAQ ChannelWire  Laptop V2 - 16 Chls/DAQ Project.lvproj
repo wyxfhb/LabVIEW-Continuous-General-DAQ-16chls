@@ -242,7 +242,7 @@
 			<Item Name="Update Probe Details String.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ProbeSupport/Update Probe Details String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="GCD" Type="EXE">
+			<Item Name="GCD EXE" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{9A2DB3CC-478A-48FC-8981-9E8C2636EEC3}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{0874255D-3F66-4FB7-B6DA-8B4308A13E8D}</Property>
@@ -251,14 +251,14 @@
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{FD417819-B432-40B9-9E4A-3014DA520565}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">A general-purpose data acquisition (DAQ) program designed to read analog voltage data, display it on a real-time graph, and record the acquired data to a file. Suitable for most DAQ needs.</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">GCD</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">GCD EXE</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/General Continuous DAQ App</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D4C75531-D07F-4411-9467-FB89DCE4824B}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">General Continuous DAQ.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/General Continuous DAQ App/General Continuous DAQ.exe</Property>
@@ -270,7 +270,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icon/General Continuous DAQ Icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{639AB917-95B7-46CD-AA19-5CD3316364B0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1AEC68FF-1596-4D7D-B528-190DFEB8B325}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
@@ -279,9 +279,9 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">University of Bath</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">A general-purpose data acquisition (DAQ) program designed to read analog voltage data, display it on a real-time graph, and record the acquired data to a file. Suitable for most DAQ needs.</Property>
-				<Property Name="TgtF_internalName" Type="Str">GCD</Property>
+				<Property Name="TgtF_internalName" Type="Str">GCD EXE</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 University of Bath</Property>
-				<Property Name="TgtF_productName" Type="Str">GCD</Property>
+				<Property Name="TgtF_productName" Type="Str">GCD EXE</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{D62BC8E5-116F-4157-AC26-10AC93DF6BF0}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">General Continuous DAQ.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
