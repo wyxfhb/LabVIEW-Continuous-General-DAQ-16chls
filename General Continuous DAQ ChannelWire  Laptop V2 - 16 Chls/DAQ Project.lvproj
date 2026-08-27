@@ -258,7 +258,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/General Continuous DAQ App</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D4C75531-D07F-4411-9467-FB89DCE4824B}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">General Continuous DAQ.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/General Continuous DAQ App/General Continuous DAQ.exe</Property>
